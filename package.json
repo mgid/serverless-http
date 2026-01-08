@@ -5,7 +5,7 @@
   "main": "serverless-http.js",
   "types": "serverless-http.d.ts",
   "engines": {
-    "node": ">=12.0"
+    "node": ">=18.0"
   },
   "directories": {
     "test": "test"
@@ -84,8 +84,8 @@
     "reflect-metadata": "^0.1.13",
     "restana": "^4.0.7",
     "sails": "^1.2.3",
-    "serverless": "^3.10.2",
-    "serverless-offline": "^12.0.4",
+    "serverless": "^4.29.0",
+    "serverless-offline": "^14.0.0",
     "serverless-plugin-common-excludes": "^4.0.0",
     "serverless-plugin-custom-binary": "^2.0.0",
     "serverless-plugin-include-dependencies": "^5.0.0",
